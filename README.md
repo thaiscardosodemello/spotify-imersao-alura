@@ -29,3 +29,6 @@
 <li><b>UX/UI:</b> Aplicação de conceitos de design de experiência e interface do usuário.</li>
 </ul>
 </br>
+
+<img src="https://mir-cdn.behance.net/v1/rendition/project_modules/2800_opt_1/baf0ac201312415.66725d8dbc208.jpg" alt="" />
+</br>
