@@ -1,9 +1,24 @@
-:root{
-    /*FONT*/
-    --font-dm-sans: "DM Sans", sans-serif;
+:root {
+  /*FONT*/
+  --font-default: "DM Sans", sans-serif;
+  --fontsize-link: 14px;
+  --fontsize-title: 14px;
+  --fontsize-text: 12px;
+  --fontsize-subtext: 10px;
+  --fontweight-default: 500;
+  --fontweight-bold: 600;
+  --fontweight-bolder: 700;
 
-    /*COLORS*/
-    --bg-icon: #131313;
-    --bg-arrow-color: rgba(0,0,0,7)
+  /*COLORS*/
+  --bgcolor-default: #000000;
+  --bgcolor-container: #121212;
+  --bgcolor-card: #181818;
+  --bgcolor-button: #ffffff;
+  --bgcolor-section: #242424;
+  --fontcolor-primary: #ffffff;
+  --fontcolor-secundary: #b3b3b3;
+  --fontcolor-terciary: #000000;
+  --fontcolor-categorie: #6a6a6a;
+  --bgcolor-icon: #131313;
+  --bgcolor-arrow: rgba(0, 0, 0, 7);
 }
-
